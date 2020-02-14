@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shipping Calculator</string>
+    <string name="added_cost">Plusz Oszeg</string>
+    <string name="base_cost">also oszeg</string>
+    <string name="ounce_hint">ouncce</string>
+    <string name="total_cost">Teljes</string>
+    <string name="weight_label">Suly</string>
+    <string name="zero">NullaDollar</string>
+    <string name="zeroSolo">Nulla</string>
+</resources>
